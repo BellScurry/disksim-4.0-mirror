@@ -1,3 +1,6 @@
 [submodule "dixtrac"]
 	path = dixtrac
 	url = https://github.com/bellscurry/dixtrac-mirror.git
+[submodule "ssdmodel"]
+	path = ssdmodel
+	url = https://github.com/BellScurry/disksim-4.0-ssd-addon-mirror.git
