@@ -1,0 +1,3 @@
+[submodule "dixtrac"]
+	path = dixtrac
+	url = https://github.com/bellscurry/dixtrac-mirror.git
